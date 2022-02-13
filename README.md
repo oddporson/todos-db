@@ -1,2 +1,2 @@
 Try it
-https://my-json-server.typicode.com/typicode-todos
+https://my-json-server.typicode.com/oddporson/todos-db
