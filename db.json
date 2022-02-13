@@ -1,26 +1,11 @@
-[
-  {
-    "userId": 1,
-    "id": 1,
-    "title": "Make Pizza",
-    "completed": false
-  },
-  {
-    "userId": 1,
-    "id": 2,
-    "title": "Walk dog",
-    "completed": false
-  },
-  {
-    "userId": 1,
-    "id": 3,
-    "title": "Clean bathroom",
-    "completed": false
-  },
-  {
-    "userId": 1,
-    "id": 4,
-    "title": "Make grocery list",
-    "completed": false
-  }
-]
+{ 
+  "todos": [
+  { "userId": 1, "id": 1, "title": "Make Pizza","completed": false },
+  { "userId": 1, "id": 2, "title": "Walk dog", "completed": false },
+  { "userId": 1, "id": 3, "title": "Clean bathroom", "completed": false }
+  ],
+  "users": [
+    { "id": 1, "name": "Neo" },
+    { "id": 2, "name": "Yoda" }
+  ]
+}
